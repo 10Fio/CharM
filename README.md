@@ -1,4 +1,4 @@
-# Terminology
+# CharM
 A terminal engine for java/groovy games.
 
-Still in development.
+Just an idea now.
